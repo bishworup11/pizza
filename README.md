@@ -31,7 +31,7 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/bishworup11/pizza.git
-   cd pizza-hut-sylhet
+   cd pizza
    ```
 
 2. **Install dependencies:**
