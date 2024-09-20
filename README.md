@@ -30,7 +30,7 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/pizza.git
+   git clone https://github.com/bishworup11/pizza.git
    cd pizza-hut-sylhet
    ```
 
